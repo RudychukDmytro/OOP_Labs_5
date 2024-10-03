@@ -19,7 +19,7 @@
 
 
 # Діаграма
-![UML Diagram](images/UML_lab_5.png)
+![UML Diagram](images/%20%20UML_lab_5.png)
 
 Файл із діаграмою знаходиться у директорії "images"
 
